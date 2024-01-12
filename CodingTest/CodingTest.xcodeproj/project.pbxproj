@@ -10,7 +10,6 @@
 		C3020D232B2C956200C68DA3 /* 나머지 구하기.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3020D222B2C956200C68DA3 /* 나머지 구하기.swift */; };
 		C348B0482B3704F500CB9C43 /* 문자열 섞기.swift in Sources */ = {isa = PBXBuildFile; fileRef = C348B0472B3704F500CB9C43 /* 문자열 섞기.swift */; };
 		C37ACF852B4B8AB300CECE4A /* 마지막 두 원소.swift in Sources */ = {isa = PBXBuildFile; fileRef = C37ACF842B4B8AB300CECE4A /* 마지막 두 원소.swift */; };
-		C3B7EB682B4C738700C2580C /* 수 조작하기 1.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3B7EB672B4C738700C2580C /* 수 조작하기 1.swift */; };
 		C3E8FB462B26B387003A7333 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3E8FB452B26B387003A7333 /* main.swift */; };
 /* End PBXBuildFile section */
 
@@ -36,6 +35,7 @@
 		C3020D222B2C956200C68DA3 /* 나머지 구하기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "나머지 구하기.swift"; sourceTree = "<group>"; };
 		C32C510C2B308F5300723B60 /* n의 배수.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "n의 배수.swift"; sourceTree = "<group>"; };
 		C33C746D2B43A58A00830F00 /* 코드 처리하기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "코드 처리하기.swift"; sourceTree = "<group>"; };
+		C345923C2B4E640F00BDB2F2 /* 수 조작하기 2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "수 조작하기 2.swift"; sourceTree = "<group>"; };
 		C348B0472B3704F500CB9C43 /* 문자열 섞기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "문자열 섞기.swift"; sourceTree = "<group>"; };
 		C34C186E2B3EED2E00A062D2 /* 두 수의 곱.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "두 수의 곱.swift"; sourceTree = "<group>"; };
 		C34C18702B3EEE2900A062D2 /* 각도기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "각도기.swift"; sourceTree = "<group>"; };
@@ -110,6 +110,7 @@
 				C36CE89C2B4A2D84005C9EE0 /* 이어 붙인 수.swift */,
 				C37ACF842B4B8AB300CECE4A /* 마지막 두 원소.swift */,
 				C3B7EB672B4C738700C2580C /* 수 조작하기 1.swift */,
+				C345923C2B4E640F00BDB2F2 /* 수 조작하기 2.swift */,
 			);
 			path = Programmers;
 			sourceTree = "<group>";
@@ -202,7 +203,6 @@
 				C3E8FB462B26B387003A7333 /* main.swift in Sources */,
 				C3020D232B2C956200C68DA3 /* 나머지 구하기.swift in Sources */,
 				C348B0482B3704F500CB9C43 /* 문자열 섞기.swift in Sources */,
-				C3B7EB682B4C738700C2580C /* 수 조작하기 1.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
