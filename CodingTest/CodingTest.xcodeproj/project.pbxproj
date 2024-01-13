@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9137111C2B523F3600AF1B83 /* 수열과 구간 쿼리3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9137111B2B523F3600AF1B83 /* 수열과 구간 쿼리3.swift */; };
 		C3020D232B2C956200C68DA3 /* 나머지 구하기.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3020D222B2C956200C68DA3 /* 나머지 구하기.swift */; };
 		C348B0482B3704F500CB9C43 /* 문자열 섞기.swift in Sources */ = {isa = PBXBuildFile; fileRef = C348B0472B3704F500CB9C43 /* 문자열 섞기.swift */; };
 		C37ACF852B4B8AB300CECE4A /* 마지막 두 원소.swift in Sources */ = {isa = PBXBuildFile; fileRef = C37ACF842B4B8AB300CECE4A /* 마지막 두 원소.swift */; };
@@ -26,6 +27,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		9137111B2B523F3600AF1B83 /* 수열과 구간 쿼리3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "수열과 구간 쿼리3.swift"; sourceTree = "<group>"; };
 		91BE9D662B2EE362008520F5 /* 문자열 겹쳐쓰기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "문자열 겹쳐쓰기.swift"; sourceTree = "<group>"; };
 		91D1C0272B3D0BE000F3ED93 /* 공배수.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "공배수.swift"; sourceTree = "<group>"; };
 		91D1C0292B3D0DFE00F3ED93 /* 정수부분.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "정수부분.swift"; sourceTree = "<group>"; };
@@ -111,6 +113,7 @@
 				C37ACF842B4B8AB300CECE4A /* 마지막 두 원소.swift */,
 				C3B7EB672B4C738700C2580C /* 수 조작하기 1.swift */,
 				C345923C2B4E640F00BDB2F2 /* 수 조작하기 2.swift */,
+				9137111B2B523F3600AF1B83 /* 수열과 구간 쿼리3.swift */,
 			);
 			path = Programmers;
 			sourceTree = "<group>";
@@ -200,6 +203,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C37ACF852B4B8AB300CECE4A /* 마지막 두 원소.swift in Sources */,
+				9137111C2B523F3600AF1B83 /* 수열과 구간 쿼리3.swift in Sources */,
 				C3E8FB462B26B387003A7333 /* main.swift in Sources */,
 				C3020D232B2C956200C68DA3 /* 나머지 구하기.swift in Sources */,
 				C348B0482B3704F500CB9C43 /* 문자열 섞기.swift in Sources */,
