@@ -4,3 +4,14 @@
 
 layout: home
 ---
+
+<ul>
+  {% assign sorted_posts = site.posts | sort: 'date' | reverse %}
+  {% for post in sorted_posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      <p>{{ post.date | date: "%Y-%m-%d" }}</p>
+    </li>
+  {% endfor %}
+</ul>
+
